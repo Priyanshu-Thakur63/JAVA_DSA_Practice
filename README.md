@@ -32,18 +32,14 @@ Common topics include:
 
 ---
 
-## 📂 Repository Structure (Flexible)
+## 📂 Repository Structure
 
-JAVA_DSA_Practice/
-│
-├── Topic_Name/
-│ ├── ProblemName.java
-│ ├── AnotherProblem.java
-│
-├── Another_Topic/
-│ ├── ExampleProblem.java
-│
-└── README.md
+| Folder | Description |
+|--------|-------------|
+| [01_Setup/](./01_Setup) | Installation & Environment Setup |
+| [02_Basics/](./02_Basics) | Basics of C++ (syntax, variables, I/O) |
+| [03_Conditionals/](./03_Conditionals) | If-else, switch-case, conditions |
+| [README.md](./README.md) | Main repo overview |
 
 > Folder names, problem grouping, and depth may change over time as complexity increases.
 
