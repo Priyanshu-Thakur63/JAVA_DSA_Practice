@@ -36,7 +36,7 @@ Common topics include:
 
 | Folder | Description |
 |--------|-------------|
-| [01_Basics/](./01_Basics) | Basics of C++ (syntax, variables, I/O) |
+| [01_Basics/](./01_Basics) | Basics of Java (syntax, variables, I/O) |
 | [02_Conditionals/](./02_Conditionals) | If-else, switch-case, conditions |
 | [README.md](./README.md) | Main repo overview |
 
