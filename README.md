@@ -36,9 +36,8 @@ Common topics include:
 
 | Folder | Description |
 |--------|-------------|
-| [01_Setup/](./01_Setup) | Installation & Environment Setup |
-| [02_Basics/](./02_Basics) | Basics of C++ (syntax, variables, I/O) |
-| [03_Conditionals/](./03_Conditionals) | If-else, switch-case, conditions |
+| [01_Basics/](./01_Basics) | Basics of C++ (syntax, variables, I/O) |
+| [02_Conditionals/](./02_Conditionals) | If-else, switch-case, conditions |
 | [README.md](./README.md) | Main repo overview |
 
 > Folder names, problem grouping, and depth may change over time as complexity increases.
